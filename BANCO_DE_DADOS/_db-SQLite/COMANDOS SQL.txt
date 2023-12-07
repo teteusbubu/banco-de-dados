@@ -1,0 +1,10 @@
+Para inserir registro na tabela
+Exemplo:
+	INSERT INTO tb_Cliente(Nome, Email)
+ 		VALUES ('ciclano', 'ciclano@bol.com');
+
+Para consultar registro na tabela
+Exemplo:
+	SELECT *(pode colocar o nome da area da coluna) FROM tb_Cliente;
+
+Para 

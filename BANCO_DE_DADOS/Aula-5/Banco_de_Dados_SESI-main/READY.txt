@@ -1,0 +1,15 @@
+CONSULTAR DADOS	
+	
+EXEMPLO:
+	SELECT * FROM nome_da_tabela;
+		// * Significa todos os campos da tabela, caso precise consultar uma determinada coluna:
+	SELECT coluna1, coluna2, coluna3 FROM nome_da_tabela;
+
+
+
+	SELECT * FROM tb_usuario;
+	
+SELECT nome, telefone, cidade, estado FROM tb_usuario WHERE estado = 'RS';
+	Perguntas:
+	1 Queremos saber quais matriculas estão vinculadas aos alunos, como fazer?
+	2 Queremos saber registros do estado de RS e da cidade de porto alegre, como fazer?

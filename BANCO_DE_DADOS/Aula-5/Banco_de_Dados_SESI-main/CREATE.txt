@@ -1,0 +1,19 @@
+INSERT INTO tb_usuario (nome, telefone, rua, numero, complemento, cep, bairro, cidade, estado)
+VALUES
+    ('Pedro Almeida', '7777-8888', 'Rua D', '1010', 'Apto 5', '55555-444', 'Jardim Primavera', 'Porto Alegre', 'RS'),
+    ('Ana Souza', '3333-2222', 'Rua E', '222', 'Casa 7', '22222-333', 'Centro', 'Curitiba', 'PR'),
+    ('Carlos Lima', '5555-4444', 'Rua F', '4567', 'Sala 10', '98765-432', 'Bairro Novo', 'Belo Horizonte', 'MG'),
+    ('Mariana Costa', '2222-1111', 'Rua G', '7890', 'Casa 1', '12345-678', 'Vila Feliz', 'Rio de Janeiro', 'RJ'),
+    ('Lucas Ferreira', '4444-3333', 'Rua H', '6543', 'Apto 3', '54321-876', 'Bairro Novo', 'Belo Horizonte', 'MG'),
+    ('Juliana Oliveira', '8888-9999', 'Rua I', '765', 'Sala 8', '98765-432', 'Jardim Primavera', 'Porto Alegre', 'RS'),
+    ('Ricardo Mendes', '6666-7777', 'Rua J', '321', 'Apto 7', '12345-678', 'Centro', 'São Paulo', 'SP'),
+    ('Beatriz Ramos', '7777-2222', 'Rua K', '444', 'Casa 9', '54321-876', 'Bairro Novo', 'Belo Horizonte', 'MG'),
+    ('Gustavo Pereira', '3333-5555', 'Rua L', '5678', 'Sala 5', '98765-432', 'Jardim Primavera', 'Porto Alegre', 'RS'),
+    ('Fernanda Castro', '2222-6666', 'Rua M', '876', 'Apto 6', '12345-678', 'Centro', 'São Paulo', 'SP'),
+    ('Henrique Santos', '8888-3333', 'Rua N', '234', 'Casa 10', '54321-876', 'Bairro Novo', 'Belo Horizonte', 'MG'),
+    ('Isabela Fernandes', '7777-6666', 'Rua O', '987', 'Sala 4', '98765-432', 'Jardim Primavera', 'Porto Alegre', 'RS'),
+	('Carlos Lima', '5555-4444', 'Rua F', '4567', 'Sala 10', '98765-432', 'Bairro Novo', 'Belo Horizonte', 'MG'),
+    ('Lucas Ferreira', '4444-3333', 'Rua H', '6543', 'Apto 3', '54321-876', 'Bairro Novo', 'Caxias do Sul', 'RS'),
+    ('Gustavo Pereira', '3333-5555', 'Rua L', '5678', 'Sala 5', '98765-432', 'Jardim Primavera', 'Pelotas', 'RS'),
+    ('Henrique Santos', '8888-3333', 'Rua N', '234', 'Casa 10', '54321-876', 'Bairro Novo', 'Passo Fundo', 'RS'),
+    ('Isabela Fernandes', '7777-6666', 'Rua O', '987', 'Sala 4', '98765-432', 'Jardim Primavera', 'Santa Maria', 'RS');
